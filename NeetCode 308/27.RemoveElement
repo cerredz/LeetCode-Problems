@@ -1,0 +1,36 @@
+class Solution {
+public:
+
+/* 
+    Problem: 
+    Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The relative order of the elements may be changed.
+    
+    Since it is impossible to change the length of the array in some languages, you must instead have the result be placed in the first part of the array nums. 
+    More formally, if there are k elements after removing the duplicates, then the first k elements of nums should hold the final result. It does not matter what you leave beyond the first k elements.
+    
+    Return k after placing the final result in the first k slots of nums.
+____________________________________________________________________________________________________________________________________________________________________________
+    Approach: 
+
+    - declare a variable that will keep track of length of result vector (result)
+    - loop through the vector
+        - if the current number is equal to the target value
+            - update result
+            - erase the value from the vector
+    
+    - return result
+*/
+    int removeElement(vector<int>& nums, int val) {
+
+        int res = nums.size(); //keeps track of length of nums without val
+
+        for(int i = 0; i < nums.size(); i++) {
+            if(nums[i] == val) {
+                nums.erase(nums.begin() + i);
+                res--;
+                i--;//must decrement i in order to not skip any indexes
+            }
+        }
+        return res;
+    }
+};
