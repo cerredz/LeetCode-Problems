@@ -1,6 +1,17 @@
-In this repository, you will find a selection of Leetcode problems that I have solved. Along the way of completing Leetcode 75 I decided that I was going to document the journey (65 problems into it), which is why all of my Leetcode problems are not in the repository. I will surely not stop completing leetcode problems after I complete leetcode 75, and I look forward to adding as many problems into this repository as I can
+In this repository, you will find a selection of Leetcode problems that I have solved. Along the way of completing Leetcode 75 I decided that I was going to document my leetcode journey. 
+
+There are 3 folders that contain the leetcode problems that I have completed:
+
+Neetcode 308: All the problems in neetcode 308 I have completed so far (currently 28)
+
+Mediums: All the medium problems I have completed on Leetcode tht are NOT in neetcode 308
+
+Contest: All the problems that I have completed during leetcode contests
+
+
 _________________________________________________________________________________________________________________________________________________________
 
 In each file, you will find my approach and pseudocode at the top, followed by the implementation of the solution with inline comments to help clarify the code. 
 
-Access to my leetcode profile to view all of my problems solved can be viewed at https://leetcode.com/422michaelcerreto/ 
+
+* Access to my leetcode profile to view all of my problems solved / rank can be viewed at https://leetcode.com/422michaelcerreto/ *
