@@ -14,4 +14,4 @@ ________________________________________________________________________________
 In each file, you will find my approach and pseudocode at the top, followed by the implementation of the solution with inline comments to help clarify the code. 
 
 
-* Access to my leetcode profile to view all of my problems solved / rank can be viewed at https://leetcode.com/422michaelcerreto/ *
+* Access to my leetcode profile to view all of my problems solved / leetcode rank can be viewed at https://leetcode.com/422michaelcerreto/ 
