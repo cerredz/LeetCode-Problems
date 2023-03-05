@@ -2,7 +2,7 @@ In this repository, you will find a selection of Leetcode problems that I have s
 
 There are 3 folders that contain the leetcode problems that I have completed:
 
-Neetcode 308: All the problems in neetcode 308 I have completed so far (currently 28)
+Neetcode 308: All the problems in neetcode 308 I have completed so far (currently 33)
 
 Mediums: All the medium problems I have completed on Leetcode tht are NOT in neetcode 308
 
