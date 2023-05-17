@@ -43,9 +43,6 @@ public:
                 left++;
                 
             }
-            
-
-            
         }
 
         //if no window is found return 0
