@@ -12,7 +12,7 @@ public:
     Approach: 
         1. Since the vector is in sorted order, we can combine our sliding window approach with binary search
         2. Have two pointers, starting the left pointer at 0, and the right pointer at the index of the last
-            element
+            element - k
         3. find the middle index of the two pointers. if arr[mid] is not closer to x than arr[mid + k]
             this means that that the element at the last index of our k-element window is closer to x than the 
             first element, so we must increment our left pointer to mid + 1 (same as in binary search). 
