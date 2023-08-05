@@ -9,7 +9,7 @@ Contest: All the problems that I have completed during leetcode contests
 
 _________________________________________________________________________________________________________________________________________________________
 
-In each file, you will find the actual proglem with either my approach, puesdocode, or even both at the top, followed by the implementation of the solution with inline comments to help clarify the code. Sometimes if I feel like a solution is very easyily understandable I will only put inline comments
+In each file, you will find the actual problem with either my approach, puesdocode, or even both at the top, followed by the implementation of the solution with inline comments to help clarify the code. Sometimes if I feel like a solution is very easyily understandable I will only put inline comments
 
 
 * Access to my leetcode profile to view all of my problems solved / leetcode rank can be viewed at https://leetcode.com/422michaelcerreto/ 
