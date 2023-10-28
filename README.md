@@ -2,7 +2,7 @@ In this repository, you will find a selection of Leetcode problems that I have s
 
 There are 3 folders that contain the leetcode problems that I have completed:
 
-Neetcode 434: All the problems in neetcode 434 I have completed so far (currently around 120) (it is called neetcode 308 because there was only 308 problems at the time on neetcode)
+Neetcode 308: All the problems in neetcode 434 I have completed so far (currently around 200) (it is called neetcode 308 because there was only 308 problems at the time on neetcode)
 
 Contest: All the problems that I have completed during leetcode contests
 
